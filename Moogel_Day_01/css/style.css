@@ -1,0 +1,40 @@
+body {
+background-image: url(rivendell.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+font-family: "Helvetica Neue", Arial, sans-serif;
+text-align: center;
+.white-text {color: rgba(255, 255, 255, 0.84);}
+
+.center-button {
+    display: flex;
+    justify-content: center;
+}
+}
+
+header {
+    background-color: rgba(245, 225, 225, 0);
+    color: rgb(7, 58, 134);
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.content {
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: blanchedalmond;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+footer{
+    text-align: center;
+    padding:  10px;
+    background-color: #333;
+    color: blanchedalmond;
+}
